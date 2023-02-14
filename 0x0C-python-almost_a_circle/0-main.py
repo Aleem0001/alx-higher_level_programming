@@ -18,3 +18,7 @@ if __name__ == "__main__":
 
     b5 = Base()
     print(b5.id)
+<<<<<<< HEAD
+=======
+    print(b5._Base__nb_objects)
+>>>>>>> 86a03e450d6190f86a177e189ff28582019bd80e
